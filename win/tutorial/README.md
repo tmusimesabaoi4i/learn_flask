@@ -1,2 +1,2 @@
 ## 内容
-- [factory](../factory/README.md)
+- [factory](../tutorial/factory/README.md)
