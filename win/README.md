@@ -13,5 +13,5 @@ python -m pip install -U pip
 python -m pip install Flask
 ```
 ## 内容
-- [quickstart](/quickstart/README.md)
-- [tutorial](/tutorial/README.md)
+- [quickstart](../win/quickstart/README.md)
+- [tutorial](../win/tutorial/README.md)
